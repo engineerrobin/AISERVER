@@ -1,0 +1,5 @@
+# Ignore environment file and node modules
+.env
+node_modules/
+# Ignore configuration files
+config/index.js

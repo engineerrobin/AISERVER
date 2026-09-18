@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f4a8c73.css",
+    "main.js": "/static/js/main.de01a26e.js",
+    "static/css/762.7db6b7a4.chunk.css": "/static/css/762.7db6b7a4.chunk.css",
+    "static/js/762.50a4cedc.chunk.js": "/static/js/762.50a4cedc.chunk.js",
+    "static/css/537.2e2cba32.chunk.css": "/static/css/537.2e2cba32.chunk.css",
+    "static/js/537.7b1bb7fa.chunk.js": "/static/js/537.7b1bb7fa.chunk.js",
+    "static/css/954.b78f5395.chunk.css": "/static/css/954.b78f5395.chunk.css",
+    "static/js/954.4cebae1d.chunk.js": "/static/js/954.4cebae1d.chunk.js",
+    "static/css/374.52507e64.chunk.css": "/static/css/374.52507e64.chunk.css",
+    "static/js/374.d0fb1e5e.chunk.js": "/static/js/374.d0fb1e5e.chunk.js",
+    "react-vendor.js": "/static/js/react-vendor.2c114f93.js",
+    "antd-vendor.js": "/static/js/antd-vendor.55f59a00.js",
+    "echarts-vendor.js": "/static/js/echarts-vendor.dd8ef923.chunk.js",
+    "commons.js": "/static/js/commons.08529ae9.chunk.js",
+    "static/js/344.bf47a03f.chunk.js": "/static/js/344.bf47a03f.chunk.js",
+    "static/media/AI.svg": "/static/media/AI.dd8a7602d9c90dea75266025158db125.svg",
+    "static/media/3D.svg": "/static/media/3D.8b4873708c840cf6902dfa97406d430c.svg",
+    "static/media/lottery.svg": "/static/media/lottery.5c17e5e15e3e2325337e284bd13f39d1.svg",
+    "static/media/thinking.svg": "/static/media/thinking.32b26b79485dee4054a3401cbbb34286.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/js/react-vendor.2c114f93.js",
+    "static/js/antd-vendor.55f59a00.js",
+    "static/css/main.6f4a8c73.css",
+    "static/js/main.de01a26e.js"
+  ]
+}
