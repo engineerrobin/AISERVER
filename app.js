@@ -20,9 +20,16 @@ app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
-app.use(express.static(path.join(__dirname, 'public')));
+// 使用路由中间件处理 API 请求
 app.use('/api', indexRouter);
 app.use('/api', chatRouter);
+// 使用静态文件中间件处理前端资源请求
+app.use(express.static(path.join(__dirname, 'public')));
+// 所有非 API 请求都交给前端路由处理
+app.get('*', function(req, res) {
+  res.sendFile(path.join(__dirname, 'public', 'index.html'));
+});
+
 // 引入 connect-history-api-fallback 模块 
 app.use(history());
 // catch 404 and forward to error handler
