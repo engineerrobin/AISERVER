@@ -15,8 +15,8 @@ var http = require('http');
 /**
  * Get port from environment and store in Express.
  */
-
-var port = normalizePort(process.env.PORT || '3333');
+// 端口默认为80，方便部署时无需额外配置
+var port = normalizePort(process.env.PORT || '80');
 app.set('port', port);
 
 /**

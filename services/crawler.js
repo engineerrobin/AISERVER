@@ -69,7 +69,7 @@ async function fetchData(retries = 3) {
                 dayStart: '',         // 起始日期
                 dayEnd: '',           // 结束日期
                 pageNo: 1,            // 页码
-                pageSize: 10,         // 每页条数
+                pageSize: 5,         // 每页条数
                 week: '',             // 星期
                 systemType: 'PC'      // 系统类型
       },
