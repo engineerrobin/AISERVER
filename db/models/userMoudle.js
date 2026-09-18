@@ -6,7 +6,7 @@ const UserSchema = new mongoose.Schema({
   password: { type: String, required: true }, // 实际存储加密后的
   phone: { type: String, unique: true, required: true },
   roleId: { type: mongoose.Schema.Types.ObjectId, ref: 'Role', required: true }, // 关键：关联角色，ref指定关联的模型名称
-  tokensBalance: { type: Number, default: 5000 }, // 初始可用 Token 额度
+  tokensBalance: { type: Number, default: 20000 }, // 初始可用 Token 额度
   createdAt: { type: Date, default: Date.now },
 }, { timestamps: true });
 // 创建用户模型
