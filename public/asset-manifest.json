@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6f4a8c73.css",
-    "main.js": "/static/js/main.de01a26e.js",
+    "main.js": "/static/js/main.baec0902.js",
     "static/css/762.7db6b7a4.chunk.css": "/static/css/762.7db6b7a4.chunk.css",
     "static/js/762.50a4cedc.chunk.js": "/static/js/762.50a4cedc.chunk.js",
     "static/css/537.2e2cba32.chunk.css": "/static/css/537.2e2cba32.chunk.css",
@@ -9,7 +9,7 @@
     "static/css/954.b78f5395.chunk.css": "/static/css/954.b78f5395.chunk.css",
     "static/js/954.4cebae1d.chunk.js": "/static/js/954.4cebae1d.chunk.js",
     "static/css/374.52507e64.chunk.css": "/static/css/374.52507e64.chunk.css",
-    "static/js/374.d0fb1e5e.chunk.js": "/static/js/374.d0fb1e5e.chunk.js",
+    "static/js/374.fcfeacd9.chunk.js": "/static/js/374.fcfeacd9.chunk.js",
     "react-vendor.js": "/static/js/react-vendor.2c114f93.js",
     "antd-vendor.js": "/static/js/antd-vendor.55f59a00.js",
     "echarts-vendor.js": "/static/js/echarts-vendor.dd8ef923.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/react-vendor.2c114f93.js",
     "static/js/antd-vendor.55f59a00.js",
     "static/css/main.6f4a8c73.css",
-    "static/js/main.de01a26e.js"
+    "static/js/main.baec0902.js"
   ]
 }
